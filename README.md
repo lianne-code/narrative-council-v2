@@ -3,10 +3,10 @@
 
 ---
 
-The brief is the only document in your marketing process that nobody scrutinizes.  
+The brief is the only document in your marketing process that nobody scrutinizes as much as the final product.  
 It's also the only one where scrutiny would actually matter.
 
-Most brief reviews happen on the final execution — when the cost of a hard conversation is highest and the ability to change anything meaningful is lowest. A room of well-paid executives will spend forty minutes debating a sentence most readers will skim. Nobody spent forty minutes on the brief that produced it.
+Instead, a room of well-paid executives will spend forty minutes debating a sentence most readers will skim. The irony is that nobody spent forty minutes on the brief that produced it.
 
 The Narrative Council moves the scrutiny upstream. Run it on the brief — or whatever you have that functions as one — before writers touch it, before stakeholders see it, before the Safety Tax starts accumulating.
 
@@ -34,9 +34,9 @@ Seven advisors review it in point form. A Chairman synthesizes. You decide.
 
 The growing list of people reviewing final executions keeps getting longer. The brief that produced those executions keeps getting less scrutiny. These two facts are related.
 
-Marketing teams run campaigns that underperform and attribute the miss to creative execution. The creative team built exactly what the brief asked for. The brief asked for the wrong thing, and nobody caught it because nobody was looking.
+Marketing teams run campaigns that underperform and attribute the miss to creative execution. The creative team built exactly what the brief asked for (or what the project evolved into). The brief asked for the wrong thing, and nobody caught it because nobody was looking.
 
-The Narrative Council is the review that should have happened three weeks earlier — before the Safety Tax accumulated, before the claim got softened in stakeholder rounds, before the revision cycles started fixing execution problems that were actually brief problems.
+The Narrative Council is the review that should have happened at the beginning of the project — before the Safety Tax accumulated, before the claim got softened in stakeholder rounds, before the revision cycles started fixing execution problems that were actually brief problems.
 
 If you already run thorough creative reviews, this makes them faster. The hard conversations happen at the brief stage, where they cost an hour. Not in the fourth revision round, where they cost a campaign.
 
