@@ -1,3 +1,7 @@
+---
+name: the-narrative-office-outputs
+description: "Narrative strategy skill for The Narrative Office — activates for investor decks, positioning, messaging, presentation structure, and stakeholder communication using TNO's proprietary frameworks."
+---
 # The Narrative Council
 ### A scrutiny engine for the document nobody scrutinizes.
 
