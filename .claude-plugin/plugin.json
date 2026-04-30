@@ -1,0 +1,11 @@
+{
+  "name": "narrative-council",
+  "version": "0.1.0",
+  "description": "A scrutiny engine for marketing briefs. Seven advisors review your brief independently — Engineer, Audience, CMO, Sales Lead, Analyst, Competitor, Legal — and a Chairman synthesizes their verdicts.",
+  "author": {
+    "name": "Lianne Stewart",
+    "homepage": "https://www.thenarrativeoffice.com"
+  },
+  "repository": "https://github.com/lianne-code/narrative-council",
+  "keywords": ["narrative", "marketing", "brief", "strategy", "review"]
+}
